@@ -221,6 +221,10 @@ textarea {
 }
 
 /*Start css*/
+h1
+{
+	margin-top: 20px;
+}
 label
 {
 	display: block;
