@@ -290,10 +290,15 @@ p
 	color: #F2F2F2;
 	font-size: 1.4em;
 }
+label 
+{
+  
+}
 #email
 {
 	width: 40%;
 	height: 1.2em;
+	margin-left: 18px;
 }
 #phone
 {
