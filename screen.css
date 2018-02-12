@@ -280,6 +280,10 @@ label
 	margin: 5px;
 	font-size: 1.3em;
 }
+h1
+{
+	color: #F2F2F2;
+}
 #email
 {
 	width: 40%;
