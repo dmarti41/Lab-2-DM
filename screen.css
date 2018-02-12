@@ -284,5 +284,9 @@ label
 	width: 40%;
 	height: 1.2em;
 }
+div
+{
+	display: inline;
+}
 }
 
