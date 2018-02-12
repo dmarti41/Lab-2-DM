@@ -269,5 +269,9 @@ label
 	margin: 5px;
 	font-size: 1.3em;
 }
+#email
+{
+	width: 40%;
+}
 }
 
