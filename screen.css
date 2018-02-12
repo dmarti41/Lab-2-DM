@@ -259,12 +259,15 @@ div
 	display: inline;
 }
 
-@media screen and (main-width: 480px)
+@media screen and (min-width: 480px)
 {
 label
 {
 	display: inline-block;
 	color: #F2F2F2;
+	background-color: #1D1E40;
+	margin: 5px;
+	font-size: 1.3em;
 }
 }
 
