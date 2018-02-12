@@ -221,6 +221,11 @@ textarea {
 }
 
 /*Start css*/
+label
+{
+	display: block;
+	background-color: #66ccff;
+}
 #email
 {
 	margin-top: 20px;
