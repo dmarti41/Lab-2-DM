@@ -259,3 +259,11 @@ div
 	display: inline;
 }
 
+@media screen and (main-width: 480px)
+{
+label
+{
+	
+}
+}
+
