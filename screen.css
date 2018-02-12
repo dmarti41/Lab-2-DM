@@ -245,7 +245,10 @@ label
 }
 #email
 {
-	width: 99%;
+	display: block;
+	text-align: center;
+	margin-left: 15px;
+	width: 90%;
 	height: 1.2em;
 	background-color: #D9F2FF;
 }
@@ -289,10 +292,6 @@ p
 {
 	color: #F2F2F2;
 	font-size: 1.4em;
-}
-label 
-{
-  
 }
 #email
 {
