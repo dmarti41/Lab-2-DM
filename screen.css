@@ -253,4 +253,8 @@ label
 	width: 99%;
 	height: 1.2em;
 }
+div
+{
+	display: inline;
+}
 
