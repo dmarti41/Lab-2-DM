@@ -221,6 +221,10 @@ textarea {
 }
 
 /*Start css*/
+body
+{
+	background-color: #ACCFE5;
+}
 h1
 {
 	margin-top: 20px;
@@ -243,6 +247,7 @@ label
 {
 	width: 99%;
 	height: 1.2em;
+	background-color: #ACCFE5;
 }
 #phone
 {
