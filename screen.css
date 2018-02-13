@@ -224,6 +224,7 @@ textarea {
 body
 {
 	background-color: #A6142F;
+	color: white;
 }
 h1
 {
@@ -235,6 +236,7 @@ p
 	margin-top: 10px;
 	margin-left: 15px;
 	margin-bottom: 10px;
+	
 }
 label
 {
